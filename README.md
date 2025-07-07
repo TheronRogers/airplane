@@ -26,10 +26,12 @@ This repository serves as a resource for learning about the principles, methods,
 
 ### Software
 - [OpenVPS](https://vspu.larc.nasa.gov)
+- [Simnet drone sim and design](https://www.simnet.aero/tutorials)
 
 ### YouTube
 - [Aircraft Design Toolbox YouTube](https://www.youtube.com/@AircraftDesignToolbox)
 - [Drone Design](https://www.youtube.com/@dynamixsystems)
+- [Airfoil Theory](https://www.youtube.com/watch?v=5UmspUmw6TM)
 
 ### Interesting Aircraft
 - [pivotal aero](https://pivotal.aero/#specs)
