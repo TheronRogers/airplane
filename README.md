@@ -27,6 +27,7 @@ This repository serves as a resource for learning about the principles, methods,
 ### Software
 - [OpenVPS](https://vspu.larc.nasa.gov)
 - [Simnet drone sim and design](https://www.simnet.aero/tutorials)
+- [simscale free online cfd simulation](https://www.simscale.com/signup/)
 
 ### YouTube
 - [Aircraft Design Toolbox YouTube](https://www.youtube.com/@AircraftDesignToolbox)
